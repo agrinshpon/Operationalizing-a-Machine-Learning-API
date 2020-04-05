@@ -35,6 +35,11 @@ jobs:
             - ./venv
           key: v1-dependencies-{{ checksum "requirements.txt" }}
 
+      #Print pytest version
+      - run:
+          name: print pytest
+          command: |
+            pytest --version
       # run lint!
       - run:
           name: run lint
