@@ -1,5 +1,4 @@
-# Template:
-[![CircleCI](https://circleci.com/gh/agrinshpon/Operationalizing-a-Machine-Learning-Project>.svg?style=shield)](https://app.circleci.com/pipelines/github/agrinshpon/Operationalizing-a-Machine-Learning-API)
+[![CircleCI](https://circleci.com/gh/agrinshpon/Operationalizing-a-Machine-Learning-API.svg?style=svg)](https://circleci.com/gh/agrinshpon/Operationalizing-a-Machine-Learning-API)
 
 ## Project Overview
 
